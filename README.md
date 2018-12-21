@@ -1,4 +1,4 @@
-# ProReplyer-chatbot
+# 프로응답러 - 챗봇
 [chatbot] using slack
 * 발표자료: https://docs.google.com/presentation/d/18CSxtqRZJatiwPoOpUOgVQTK71UWJzpD1nCgCcFF_3U/edit#slide=id.g4aa93b8e1d_19_0
 ------------------------
