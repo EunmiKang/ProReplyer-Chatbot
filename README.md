@@ -13,9 +13,11 @@
 * ngrok
 ------------------------
 ### 구현한 기능
-![기능 알려주기](https://user-images.githubusercontent.com/18115456/50327601-25f82080-0533-11e9-8e84-e3f78adc13c4.PNG){:width="800"}
-![기능: 속담 맞히기](https://user-images.githubusercontent.com/18115456/50327645-517b0b00-0533-11e9-92aa-2dcc4612775b.PNG){:width="800"}
-![기능: 게임 앱 추천](https://user-images.githubusercontent.com/18115456/50327649-53dd6500-0533-11e9-9936-13910b7df52c.PNG){:width="800"}
-![기능: 운세](https://user-images.githubusercontent.com/18115456/50327653-55a72880-0533-11e9-8a54-84e1a1908b02.PNG){:width="800"}
-![기능: 실시간 트렌드](https://user-images.githubusercontent.com/18115456/50327656-58098280-0533-11e9-92aa-41755fac65c7.PNG){:width="800"}
-![기능: 네이버 웹툰 Top 10](https://user-images.githubusercontent.com/18115456/50327657-593aaf80-0533-11e9-9c85-2dd0c7efa900.PNG){:width="800"}
+![기능 알려주기](https://user-images.githubusercontent.com/18115456/50327601-25f82080-0533-11e9-8e84-e3f78adc13c4.png){: width="800"}
+![기능: 속담 맞히기](https://user-images.githubusercontent.com/18115456/50327645-517b0b00-0533-11e9-92aa-2dcc4612775b.PNG){: width="800"}
+![기능: 게임 앱 추천](https://user-images.githubusercontent.com/18115456/50327649-53dd6500-0533-11e9-9936-13910b7df52c.PNG){: width="800"}
+![기능: 운세](https://user-images.githubusercontent.com/18115456/50327653-55a72880-0533-11e9-8a54-84e1a1908b02.PNG){: width="800"}
+![기능: 실시간 트렌드](https://user-images.githubusercontent.com/18115456/50327656-58098280-0533-11e9-92aa-41755fac65c7.PNG){: width="800"}
+![기능: 네이버 웹툰 Top 10](https://user-images.githubusercontent.com/18115456/50327657-593aaf80-0533-11e9-9c85-2dd0c7efa900.PNG){: width="800"}
+
+<img src="https://user-images.githubusercontent.com/18115456/50327601-25f82080-0533-11e9-8e84-e3f78adc13c4.png" width="800px">
