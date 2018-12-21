@@ -11,3 +11,5 @@
 * Pycharm
 ### 서버
 * ngrok
+------------------------
+<img src="https://user-images.githubusercontent.com/18115456/50327601-25f82080-0533-11e9-8e84-e3f78adc13c4.png"/>
