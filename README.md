@@ -1,6 +1,6 @@
 # ProReplyer-chatbot
 [chatbot] using slack
-https://docs.google.com/presentation/d/18CSxtqRZJatiwPoOpUOgVQTK71UWJzpD1nCgCcFF_3U/edit#slide=id.g4aa93b8e1d_19_0
+* 발표자료: https://docs.google.com/presentation/d/18CSxtqRZJatiwPoOpUOgVQTK71UWJzpD1nCgCcFF_3U/edit#slide=id.g4aa93b8e1d_19_0
 ------------------------
 ### 팀원
 * 강은미
