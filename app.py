@@ -247,17 +247,21 @@ def _proverb_game():
     proverb_flag = True
     response = []
 
-    url = "https://ko.wiktionary.org/w/index.php?title=%EB%B6%84%EB%A5%98:%ED%95%9C%EA%B5%AD%EC%96%B4_%EC%86%8D%EB%8B%B4"
-
-    req = urllib.request.Request(url)
-    sourcecode = urllib.request.urlopen(url).read()
-    soup = BeautifulSoup(sourcecode, "html.parser")
-
     proverbs_list = []
-    for source_code in soup.find_all("div", class_="mw-category-group"):
-        items = source_code.find_all("a")
-        for item in items:
-            proverbs_list.append(item["title"])
+
+    urls = ["https://ko.wiktionary.org/w/index.php?title=%EB%B6%84%EB%A5%98:%ED%95%9C%EA%B5%AD%EC%96%B4_%EC%86%8D%EB%8B%B4",
+            "https://ko.wiktionary.org/w/index.php?title=%EB%B6%84%EB%A5%98:%ED%95%9C%EA%B5%AD%EC%96%B4_%EC%86%8D%EB%8B%B4&pagefrom=%EB%88%84%EC%9B%8C%EC%84%9C+%EC%B9%A8+%EB%B1%89%EA%B8%B0#mw-pages"]
+
+    for url in urls:
+        req = urllib.request.Request(url)
+        sourcecode = urllib.request.urlopen(url).read()
+        soup = BeautifulSoup(sourcecode, "html.parser")
+
+        for source_code in soup.find_all("div", class_="mw-category-group"):
+            items = source_code.find_all("a")
+            for item in items:
+                proverbs_list.append(item["title"])
+
     answer = proverbs_list[randint(0, len(proverbs_list))]
     answer_list = answer.split()
     if len(answer_list) <= 2:
