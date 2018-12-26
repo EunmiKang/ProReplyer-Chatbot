@@ -7,9 +7,7 @@
 <img src="https://user-images.githubusercontent.com/18115456/50327645-517b0b00-0533-11e9-92aa-2dcc4612775b.PNG" width="800px">
 <img src="https://user-images.githubusercontent.com/18115456/50327649-53dd6500-0533-11e9-9936-13910b7df52c.PNG" width="800px">
 <img src="https://user-images.githubusercontent.com/18115456/50327653-55a72880-0533-11e9-8a54-84e1a1908b02.PNG" width="800px">
-<img src="https://user-images.githubusercontent.com/18115456/50327656-58098280-0533-11e9-92aa-41755fac65c7.PNG" width="800px">
-<img src="https://user-images.githubusercontent.com/18115456/50327657-593aaf80-0533-11e9-9c85-2dd0c7efa900.PNG" width="800px">
-<img src="https://user-images.githubusercontent.com/18115456/50432422-038c4b80-0915-11e9-9b46-5d03030083c4.jpg">
+<img src="https://user-images.githubusercontent.com/18115456/50327656-58098280-0533-11e9-92aa-41755fac65c7.PNG" width="300px"><img src="https://user-images.githubusercontent.com/18115456/50327657-593aaf80-0533-11e9-9c85-2dd0c7efa900.PNG" width="300px">
 
 ------------------------
 ### 팀원
