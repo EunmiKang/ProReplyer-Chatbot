@@ -357,7 +357,7 @@ def _event_handler(event_type, slack_event):
             elif "운세" in text:
                 if "쥐" in text:
                     response = _crawl_lucky("쥐")
-                elif "쥐" in text:
+                elif "" in text:
                     response = _crawl_lucky("소")
                 elif "호랑이" in text:
                     response = _crawl_lucky("호랑이")
